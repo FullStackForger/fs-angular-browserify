@@ -41,5 +41,5 @@ public/vendor/
 [Cc]onfig/
 
 # distribution
-dist
-build
+dist/
+build/
